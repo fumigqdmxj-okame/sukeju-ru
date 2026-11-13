@@ -92,7 +92,7 @@
 |---|---|
 | `kikakusho-v2.docx` | 企画書(第2稿・2026年11月11日) **最新** |
 | `nazotoki-mondai-draft-v2.docx` | 問題案(第2稿・2026年11月11日) **最新**。「なぞときリング」の図入り |
-| `hikitsugi-memo.md` | このメモ |
+| `hikitsugi-memo.docx` / `hikitsugi-memo.md` | このメモ(Word版と、同じ内容のMarkdown版) |
 | `kikakusho.docx` / `kikakusho.md` | 企画書(第1稿)。参考用 |
 | `nazotoki-mondai-draft.docx` / `nazotoki-mondai-draft.md` | 問題案(第1稿)。参考用 |
 
@@ -147,4 +147,4 @@
 
 ## 新しいセッションの始め方(例)
 
-> 「hikitsugi-memo.md と第2稿の2つのWordファイルを読んで、科学館の謎解きイベント企画の続きを手伝って。」
+> 「引き継ぎメモ(hikitsugi-memo.docx)と第2稿の2つのWordファイルを読んで、科学館の謎解きイベント企画の続きを手伝って。」
